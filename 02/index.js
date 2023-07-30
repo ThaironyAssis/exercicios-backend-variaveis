@@ -5,4 +5,4 @@ let resultado = (grauF - grauC) * grauM ;
 console.log(resultado);
 
 console.log(resultado.toFixed(2));
-//
+
